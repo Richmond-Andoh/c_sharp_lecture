@@ -1,0 +1,14 @@
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/bin/Debug/net9.0/Hello_World
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/bin/Debug/net9.0/Hello_World.deps.json
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/bin/Debug/net9.0/Hello_World.runtimeconfig.json
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/bin/Debug/net9.0/Hello_World.dll
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/bin/Debug/net9.0/Hello_World.pdb
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.AssemblyInfoInputs.cache
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.AssemblyInfo.cs
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.csproj.CoreCompileInputs.cache
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.dll
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/refint/Hello_World.dll
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.pdb
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/Hello_World.genruntimeconfig.cache
+/home/richmond-andoh/Documents/c_sharp_lecture/Hello_World/obj/Debug/net9.0/ref/Hello_World.dll
