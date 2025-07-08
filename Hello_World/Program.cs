@@ -1,8 +1,16 @@
 ﻿// introduction to strings
 
 // first and lastname variables
-string firstName = "Richmond";
+string firstName = "      Richmond    ";
 string lastName = "Andoh";
+
+// remove leading and trailing spaces from firstName with TrimStart() and TrimEnd()
+firstName = firstName.TrimStart();
+firstName = firstName.TrimEnd();
+
+// or you can use Trim() to remove both leading and trailing spaces
+firstName = firstName.Trim();
+
 
 Console.WriteLine($"Hello My first Name is {firstName} and My surname is {lastName}!");
 
