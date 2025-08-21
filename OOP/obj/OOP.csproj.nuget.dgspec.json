@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/richmond-andoh/Documents/c_sharp_lecture/Exception_lec/ExceptionLecture/ExceptionLecture.csproj": {}
+    "/home/richmond-andoh/Documents/c_sharp_lecture/OOP/OOP.csproj": {}
   },
   "projects": {
-    "/home/richmond-andoh/Documents/c_sharp_lecture/Exception_lec/ExceptionLecture/ExceptionLecture.csproj": {
+    "/home/richmond-andoh/Documents/c_sharp_lecture/OOP/OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/richmond-andoh/Documents/c_sharp_lecture/Exception_lec/ExceptionLecture/ExceptionLecture.csproj",
-        "projectName": "ExceptionLecture",
-        "projectPath": "/home/richmond-andoh/Documents/c_sharp_lecture/Exception_lec/ExceptionLecture/ExceptionLecture.csproj",
+        "projectUniqueName": "/home/richmond-andoh/Documents/c_sharp_lecture/OOP/OOP.csproj",
+        "projectName": "OOP",
+        "projectPath": "/home/richmond-andoh/Documents/c_sharp_lecture/OOP/OOP.csproj",
         "packagesPath": "/home/richmond-andoh/.nuget/packages/",
-        "outputPath": "/home/richmond-andoh/Documents/c_sharp_lecture/Exception_lec/ExceptionLecture/obj/",
+        "outputPath": "/home/richmond-andoh/Documents/c_sharp_lecture/OOP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/richmond-andoh/.nuget/NuGet/NuGet.Config"
